@@ -91,5 +91,3 @@ export default {
   cursor: pointer;
 }
 </style>
-
-'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'
